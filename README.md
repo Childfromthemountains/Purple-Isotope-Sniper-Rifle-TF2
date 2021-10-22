@@ -30,6 +30,7 @@ This is strictly only available on the Sniper Rifle. It will not change the isot
 **Also keep in mind that this mod only replaces the color from your perspective. Everyone else will see your isotope effect as the stock color. This will also mean that other isotopes will look purple, just like this one.**
 
 tl;dr Extract .zip to your custom folders and update it when needed using info below
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **How to set it up and how it works**
 
