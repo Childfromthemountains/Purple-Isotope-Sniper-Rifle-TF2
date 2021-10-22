@@ -1,11 +1,29 @@
 *PLEASE DO NOT SHARE THIS TO ANYONE WHO ASKS, IF THEY WANT THE MOD TELL THEM TO CONTACT ME THROUGH STEAM AND COMMENT ON MY PROFILE: https://steamcommunity.com/id/Cainnech*
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Quick pricing thing if you're interested**
+
+Gain access to existing particles (such as this one): 1 key
+
+Request a recolor: 3 keys for new requests, 2 keys discount for previous clients. This is per particle.*
+
+*Complex particles such as Team Shine effects, like a TS Isotope or TS Burning Flames, will cost 4 keys to previous clients and 5 keys for newcomers. This requires more time because I need to code the particles so they apply depending on which team you're in.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Currently available pre-existing particles:*
+
+**Purple Isotope Sniper Rifle: https://imgur.com/a/pCytsAr**
+
+**Mean Green SMG Isotope: link will be provided soonish**
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **General things**
 
 As I've explained, this mod will allow your isotope Sniper Rifle have a Purple color instead of the yucky green one that doesn't even match most skins nor match any Pro killstreak sheen or effect. Showcase reference is in the following link: https://imgur.com/a/pCytsAr and as for a video, it's based on the following mod: https://www.youtube.com/watch?v=acciw3qkBak
 
-This is strictly only available on the Sniper Rifle. It will not change the isotope colors of other items such as the SMG or other unusual weapons. I am able to recolor other unusual effects (i.e: the Scorching Flames becoming Purple instead of Green), but at the moment I am not considering it. The price I can roughly estimate for requests, considering the time it would take, would be between 3-6 keys per particle, also depending on the complexity of the particle (I can probably make requests for team colored unusual effects, such as a team shine isotope). Perhaps in the future I would be able to edit the actual speed, movements, or even add custom particles to replace some. But I highly doubt I will go that far.
+This is strictly only available on the Sniper Rifle. It will not change the isotope colors of other items such as the SMG or other unusual weapons. I am able to recolor other unusual effects (i.e: the Scorching Flames becoming Purple instead of Green). Perhaps in the future I would be able to edit the actual speed, movements, or even add custom particles to replace some. But I highly doubt I will go that far.
 
 **Please keep in mind that this mod will NOT work on some servers as they will have either sv_pure 2 or sv_pure 1. For example, Skial servers are a no-go. I personally have used flat texture mods on skial and they don't work. The same applies to the Isotope mod. However on UGC servers, it doesn't block it.**
 
