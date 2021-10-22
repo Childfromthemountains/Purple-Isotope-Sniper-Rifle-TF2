@@ -5,7 +5,7 @@
 
 Gain access to existing particles (such as this one): 1 key
 
-Request a recolor: 3 keys for new requests, 2 keys discount for previous clients. This is per particle.*
+Request a recolor: 3 keys for new requests, 2 keys (discounted by 1 key) for previous clients. This is per particle.*
 
 *Complex particles such as Team Shine effects, like a TS Isotope or TS Burning Flames, will cost 4 keys to previous clients and 5 keys for newcomers. This requires more time because I need to code the particles so they apply depending on which team you're in.
 
