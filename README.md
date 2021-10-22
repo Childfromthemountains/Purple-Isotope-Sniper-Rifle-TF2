@@ -29,8 +29,6 @@ This is strictly only available on the Sniper Rifle. It will not change the isot
 
 **Also keep in mind that this mod only replaces the color from your perspective. Everyone else will see your isotope effect as the stock color. This will also mean that other isotopes will look purple, just like this one.**
 
-tl;dr Extract .zip to your custom folders and update it when needed using info below
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **How to set it up and how it works**
 
@@ -38,6 +36,8 @@ The way to set this up is simply to extract the .ZIP file into your custom folde
 In the .ZIP file you will see a folder named "carlzaph_particles". If you go inside, it should have many ".pcf" files. These are Valve particle files, AKA the files which contain every unusual effect and other particles (such as the Classic laser) in them. There is also a .txt file named "particles_manifest". This is the file that allows the particles to manifest in the game itself. Take into account that deleting files in the .txt files just to "manifest" the purpleisotope.pcf file will remove all other particles, including unusual effects. This is because, although the Team Fortress 2 Directory has its vanilla particles hidden and recorded in a GCF file (which would usually run without no issue), the .ZIP file you have overrides the functions of the vanilla, stock game. This is, in other words, how HUDS work. They override the available content with custom content. 
 
 Due to the nature of game updates, new unu effects, etc. the particles inside the .ZIP file will become outdated. This means some new unusual effects may not show, if you are using this mod that is, as the new particles aren't in the current mod's files. There is an easy fix to this, which is highlighted below. Apart from that, just extract the ZIP file into your custom folder and it should work in any sv_pure 0 server without any issues. In the case there is an issue (aka missing particles, the isotope not showing) please let me know.
+
+tl;dr Extract .zip to your custom folders and update it when needed using info below
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **GCFScape (Nem's tools) and how to update your mod + quick thing**
