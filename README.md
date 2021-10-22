@@ -15,7 +15,7 @@ Request a recolor: 3 keys for new requests, 2 keys discount for previous clients
 
 **Purple Isotope Sniper Rifle: https://imgur.com/a/pCytsAr**
 
-**Mean Green SMG Isotope: link will be provided soonish**
+**Mean Green SMG Isotope: https://imgur.com/a/Zfs6gdo**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
