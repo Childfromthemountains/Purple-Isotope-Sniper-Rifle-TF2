@@ -5,7 +5,7 @@
 
 Gain access to existing particles (such as this one): 1 key
 
-Request a recolor: 3 keys for new requests, 2 keys (discounted by 1 key) for previous clients. This is per particle.*
+Request a recolor: 2 keys for new requests, 1 key (discounted by 1 key) for previous clients. This is per particle.*
 
  *I unfortunately can't make a Team Shine effect, as I've verified that the code made to have a particle apply when on a different team is something Valve do themselves.
  
